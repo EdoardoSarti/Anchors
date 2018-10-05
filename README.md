@@ -22,4 +22,4 @@ Script to visualize the Needleman-Wunsch matrix potential and the alignments on 
 
 ### test\_environments
 
-Tests done so far
+Tests done so far (to do!)
