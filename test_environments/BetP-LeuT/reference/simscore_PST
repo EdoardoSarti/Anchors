@@ -1,0 +1,5 @@
+weight: 1.4 type: UniversalProfileSimilarity column: 5 headerlines: 1 file1: <SS2_1> file2: <SS2_2>
+weight: 1.4 type: UniversalProfileSimilarity column: 4 headerlines: 1 file1: <SS2_1> file2: <SS2_2> 
+weight: 1.4 type: UniversalProfileSimilarity column: 6 headerlines: 1 file1: <SS2_1> file2: <SS2_2>
+weight: 4.2 type: UniversalProfileSimilarity column: 3 headerlines: 1 file1: <PRF_1> file2: <PRF_2>
+weight: 0.2 type: PositionSpecificSimilarity file1: <PSSM_1> file2: <PSSM_2>

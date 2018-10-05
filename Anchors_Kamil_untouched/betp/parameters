@@ -1,1 +1,0 @@
-alignme1.2.exe -fasta_file1 betp -fasta_file2 leut -similarity_score_file scale.txt -output_aligned_sequences out -anchors anchors -gap_opening_penalty 21 -gap_extension_penalty 2.1 -termini_gap_opening_penalty 0 -termini_gap_extension_penalty 1

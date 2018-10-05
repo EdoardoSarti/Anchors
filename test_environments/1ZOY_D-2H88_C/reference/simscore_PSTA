@@ -1,0 +1,6 @@
+weight: 1.4 type: UniversalProfileSimilarity column: 5 headerlines: 1 profile1: TestEnvironment/tests/1ZOY_D-2H88_C/reference/1ZOY_D.ss2 profile2: TestEnvironment/tests/1ZOY_D-2H88_C/reference/2H88_C.ss2 
+weight: 1.4 type: UniversalProfileSimilarity column: 4 headerlines: 1 profile1: TestEnvironment/tests/1ZOY_D-2H88_C/reference/1ZOY_D.ss2 profile2: TestEnvironment/tests/1ZOY_D-2H88_C/reference/2H88_C.ss2 
+weight: 1.4 type: UniversalProfileSimilarity column: 6 headerlines: 1 profile1: TestEnvironment/tests/1ZOY_D-2H88_C/reference/1ZOY_D.ss2 profile2: TestEnvironment/tests/1ZOY_D-2H88_C/reference/2H88_C.ss2
+weight: 4.2 type: UniversalProfileSimilarity column: 3 headerlines: 1 profile1: TestEnvironment/tests/1ZOY_D-2H88_C/reference/1ZOY_D.prf profile2: TestEnvironment/tests/1ZOY_D-2H88_C/reference/2H88_C.prf
+weight: 0.2 type: PositionSpecificSimilarity pssm1: TestEnvironment/tests/1ZOY_D-2H88_C/reference/1ZOY_D.pssm pssm2: TestEnvironment/tests/1ZOY_D-2H88_C/reference/2H88_C.pssm
+weight: 1.4 type: Anchors file: TestEnvironment/tests/1ZOY_D-2H88_C/define_anchors/new_anchors_boundaries.txt

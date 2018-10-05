@@ -1,0 +1,2 @@
+weight: 4.2 type: UniversalProfileSimilarity column: 3 headerlines: 1 profile1: test_environments/1ZOY_D-2H88_C/reference/1ZOY_D.prf profile2: test_environments/1ZOY_D-2H88_C/reference/2H88_C.prf
+weight: 0.2 type: PositionSpecificSimilarity pssm1: test_environments/1ZOY_D-2H88_C/reference/1ZOY_D.pssm pssm2: test_environments/1ZOY_D-2H88_C/reference/2H88_C.pssm

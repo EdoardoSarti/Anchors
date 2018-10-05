@@ -1,4 +1,0 @@
-weight: 1.0 type: SequenceSimilarity file: blosum62.mat
-weight: 1.0 type: ScaleSimilarity file: KD.txt windowtype: triangular windowsize: 13
-
-
