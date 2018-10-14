@@ -1,0 +1,53 @@
+CLUSTAL W formatted alignment obtained with AlignMe 1.1
+
+XP_016879935.   MPPCQPQRPLLLLLLLLACQVPSAQVMDFLFEKWKLYGDQCHHNLSLLPPPTELVCNRTF
+NP_000515.2_5   ------------------------------------------------------------
+                                                                            
+
+
+XP_016879935.   DKYSCWPDTPANTTANISCPWYLPWHHKVQHRFVFKRCGPDGQWVRGPRGQPWRDASQCQ
+NP_000515.2_5   -------------------------------------MDVLSPGQGNNTTSPPAPFETGG
+                                                                   *        
+
+
+XP_016879935.   MDGEEIEVQKEVAKMYSSFQVMYTVGYSLSLGALLLALAILGGLSKLHCTRNAIHANLFA
+NP_000515.2_5   NTTGISDVTVSYQVITSLLLGTLIFCAVLGNACVVAAIALE---RSLQNVANYLIGSLAV
+                       *        *           *       * *       *    *     *  
+
+
+XP_016879935.   SFVLKASSVLVIDGLLRTRYSQKIGDDLSVSTWLSDGAVAGCRVAAVFMQYGIVANYCWL
+NP_000515.2_5   TDLMVSVLVLPMAALYQVLNKWTL-------------GQVTCDLFIALDVLCCTSSILHL
+                        **    *                          *                 *
+
+
+XP_016879935.   LVEGLYLHNLLGLATLPERSFFSLYLGIGWGAPMLFVVPWAVVKCLFENVQCWTSNDNMG
+NP_000515.2_5   CAIALDRYWAITDPIDYVNKRTPRRAAALISLTWLIGFLISIPPMLGWRTPEDRSDPDAC
+                    *                             *          *        *     
+
+
+XP_016879935.   F--------WWILRFPVFLAILINFFIFVRIVQLLVAKLRAR------------------
+NP_000515.2_5   TISKDHGYTIYSTFGAFYIPLLLMLVLYGRIFRAARFRIRKTVKKVEKTGADTRHGASPA
+                                     *       **        *                    
+
+
+XP_016879935.   ------------------------------------------------------------
+NP_000515.2_5   PQPKKSVNGESGSRNWRLGVESKAGGALCANGAVRQGDDGAALEVIEVHRVGNSKEHLPL
+                                                                            
+
+
+XP_016879935.   --QMHHT-----------------------DYKFRLAKSTLTLIPLLGVHEVVFAF----
+NP_000515.2_5   PSEAGPTPCAPASFERKNERNAEAKRKMALARERKTVKTLGIIMGTFILCWLPFFIVALV
+                      *                              *               *      
+
+
+XP_016879935.   --VTDEHAQGTLRSAKLFFDLFLSSFQGLLVAVLYCFLNKEVQSELRRRWHRWRLGKVLW
+NP_000515.2_5   LPFCESSCHMPTLLGAIINWLGYSN--SLLNPVIYAYFNKDFQNAFKKIIKCKFCRQ---
+                                    *  *    **  * *   **  *                 
+
+
+XP_016879935.   EERNTSNHRASSSPGHGPPSKELQFGRGGGSQDSSAETPLAGGLPRLAESPF
+NP_000515.2_5   ----------------------------------------------------
+                                                                    
+
+Sequence identity: 5.74% 
+Matched Positions: 51.52%
