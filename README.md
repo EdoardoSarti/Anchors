@@ -31,3 +31,8 @@ The draft of the full paper
 ### Application note
 
 The draft of the application note (instead of full paper)
+
+
+### anchors test
+
+GPCR based test of anchors. Reference publication: Vohra, Taddese et al 2018 J R Soc Interface.
