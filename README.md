@@ -23,3 +23,11 @@ Script to visualize the Needleman-Wunsch matrix potential and the alignments on 
 ### test\_environments
 
 Tests done so far (to do!)
+
+### Large
+
+The draft of the full paper
+
+### Short
+
+The draft of the application note
