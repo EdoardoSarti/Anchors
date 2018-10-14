@@ -28,6 +28,6 @@ Tests done so far (to do!)
 
 The draft of the full paper
 
-### Short
+### Application note
 
-The draft of the application note
+The draft of the application note (instead of full paper)
