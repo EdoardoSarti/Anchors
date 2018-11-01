@@ -1,0 +1,16 @@
+This file contains all parameters that you have been used for your alignment 
+
+Sequences used: 
+>NP_00129166
+>NP_00115647
+
+Gap penalties and thresholds used: 
+ -below_threshold_gap_opening_penalty  6.22 -above_threshold_gap_opening_penalty  6.80 -below_threshold_gap_extension_penalty 1.37 -above_threshold_gap_extension_penalty 2.28 -termini_gap_opening_penalty 0.29 -termini_gap_extension_penalty 0.86 -thresholds_for_penalties 0.5 
+
+Scales, profiles and/or matrices used: 
+weight: 1.75 type: UniversalProfileSimilarity column: 5 headerlines: 0  profile1: hMLN_fa.ss2 profile2: mELN_fa.ss2
+weight: 0.25 type: PositionSpecificSimilarity PSSM1: hMLN_fa.pssm PSSM2: mELN_fa.pssm 
+weight: 1.75 type: UniversalProfileSimilarity column: 4 headerlines: 0  profile1: hMLN_fa.ss2 profile2: mELN_fa.ss2
+weight: 1.75 type: UniversalProfileSimilarity column: 6 headerlines: 0  profile1: hMLN_fa.ss2 profile2: mELN_fa.ss2
+
+
