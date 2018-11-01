@@ -24,15 +24,16 @@ Script to visualize the Needleman-Wunsch matrix potential and the alignments on 
 
 Tests done so far (to do!)
 
-### Large
+### paper
 
-The draft of the full paper
-
-### Application note
-
-The draft of the application note (instead of full paper)
+The draft of the paper
 
 
-### anchors test
+### anchors\_test
 
 GPCR based test of anchors. Reference publication: Vohra, Taddese et al 2018 J R Soc Interface.
+
+### anchors\_test\_SERCA
+
+SERCA regulators based test of anchors. Reference: The SarcoEndoplasmic Reticulum Calcium ATPase
+Joseph O. Primeau, Gareth P. Armanious, M’Lynn E. Fisher, and Howard S. Young
