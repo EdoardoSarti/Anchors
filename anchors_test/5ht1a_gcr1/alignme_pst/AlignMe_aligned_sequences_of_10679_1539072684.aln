@@ -1,0 +1,43 @@
+CLUSTAL W formatted alignment obtained with AlignMe 1.1
+
+OAP17518.1_GC   --------------MSAVLTAGGGLT-AGDRCIITAINTGASSLSFVGSAFIV-L--CY-
+NP_000515.2_5   MDVLSPGQGNNTTSPPAPFETGGNTTGISDVTVSYQVITSLLLGTLIFCAVLGNACVVAA
+                                *    **  *   *        *          *          
+
+
+OAP17518.1_GC   -CLFKELRK---FS-FKL-VFYLALSDMLCSFFLIV--GDPSK-GF-ICYAQGYTTHFFC
+NP_000515.2_5   IALERSLQNVANYLIGSLAVTDLMVSVLVLPMAALYQVLNKWTLGQVTCDLFIALDVLCC
+                  *   *          * *  *  *                  *   *          *
+
+
+OAP17518.1_GC   VASFLWTTTIAFTLHRTVVK-H-K-T-DVEDLEAMFHLYVWGTSLVVTVIRSFG-NNH-S
+NP_000515.2_5   TSSILHLCAIALDRYWAITDPIDYVNKRTPRRAAALISLTWLIGFLISIPPMLGWRTPED
+                  * *    **                      *      *            *      
+
+
+OAP17518.1_GC   HLGP-WCWTQTGLKGKAVHFLTFYAPLWGAILYNGFTYFQVIRMLR-NARR-M-A---V-
+NP_000515.2_5   RSDPDACTIS-K-D-HGYTIYSTFGAFYIPLLLMLVLYGRIFRAARFRIRKTVKKVEKTG
+                   *  *                        *     *    *  *   *          
+
+
+OAP17518.1_GC   -----G-----M-----S--D-R-V-D---Q-----------------------------
+NP_000515.2_5   ADTRHGASPAPQPKKSVNGESGSRNWRLGVESKAGGALCANGAVRQGDDGAALEVIEVHR
+                     *                                                      
+
+
+OAP17518.1_GC   -----------------------F----DN-----RA-EL-K-VLN-RW-GYYPLILIGS
+NP_000515.2_5   VGNSKEHLPLPSEAGPTPCAPASFERKNERNAEAKRKMALARERKTVKTLGIIMGTFILC
+                                       *           *   *          *      *  
+
+
+OAP17518.1_GC   WAFGTIN-RIHDFI-EPGHKIFWLSVLDVGTAALMGLFNSIAYGF-NSSVRRAIHERLEL
+NP_000515.2_5   WLPFFIVALVLPFCESSCHMPTLLGAIINWLGYSNSLLNPVIYAYFNKDFQNAFKKIIKC
+                *    *      *     *    *            * *   *   *     *       
+
+
+OAP17518.1_GC   -FLPERLYRWLPSNFRPKNHLILHQQQQQRSEMVSLKTEDQQ
+NP_000515.2_5   KFCRQ-------------------------------------
+                 *                                        
+
+Sequence identity: 10.17% 
+Matched Positions: 61.90%

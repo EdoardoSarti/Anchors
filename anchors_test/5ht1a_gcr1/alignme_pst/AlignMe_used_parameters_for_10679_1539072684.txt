@@ -1,0 +1,17 @@
+This file contains all parameters that you have been used for your alignment 
+
+Sequences used: 
+>OAP17518.1 
+>NP_000515.2
+
+Gap penalties and thresholds used: 
+ -below_threshold_gap_opening_penalty  2.14 -above_threshold_gap_opening_penalty  2.96 -below_threshold_gap_extension_penalty 3.10 -above_threshold_gap_extension_penalty 3.06 -termini_gap_opening_penalty 0.07 -termini_gap_extension_penalty 1.18 -thresholds_for_penalties 0.5 
+
+Scales, profiles and/or matrices used: 
+weight: 1.4 type: UniversalProfileSimilarity column: 5 headerlines: 0  profile1: fasta1.ss2 profile2: fasta2.ss2
+weight: 0.2 type: PositionSpecificSimilarity PSSM1: fasta1.pssm PSSM2: fasta2.pssm 
+weight: 1.4 type: UniversalProfileSimilarity column: 4 headerlines: 0  profile1: fasta1.ss2 profile2: fasta2.ss2
+weight: 1.4 type: UniversalProfileSimilarity column: 6 headerlines: 0  profile1: fasta1.ss2 profile2: fasta2.ss2
+weight: 4.2 type: UniversalProfileSimilarity column: 3 headerlines: 0  profile1: fasta1.prf profile2: fasta2.prf 
+
+

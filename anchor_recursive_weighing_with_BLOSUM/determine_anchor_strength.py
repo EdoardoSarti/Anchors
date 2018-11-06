@@ -137,5 +137,3 @@ while shift_sum != 0 and deadlock < max_dead:
     strength += delta
     # end of loop
 w.close()
-
-
