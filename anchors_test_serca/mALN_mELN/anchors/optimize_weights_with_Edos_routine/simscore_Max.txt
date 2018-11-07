@@ -1,0 +1,3 @@
+weight: 2.6 type: ScaleSimilarity file: HWvH.txt windowtype: triangular windowsize: 13 
+weight: 0.5 type: SequenceSimilarity file: vtml.mat 
+weight: 1.0 type: Anchors file: mALN_mELN_anchors_to_impose.txt 
